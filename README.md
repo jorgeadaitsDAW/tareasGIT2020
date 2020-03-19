@@ -36,3 +36,10 @@ Este es un repositorio de Git para realizar tareas y ejercicio sobre GIT.
 
     * Tened en cuenta que todos modificaréis el mismo archivo por lo tanto hay que mantener los cambios que hagáis todos.
 
+3º Tarea (Fecha Fin 19/03/2020 21:30):
+
+    * Tenéis que hacer Fork del proyecto: https://github.com/jorgeadaitsDAW/TareasGIT2020_Fork
+
+    * Una vez hecho Fork.Debéis clonar el proyecto.
+
+    * Téneis que realizar los pasos correspondientes para editar el archivo. IDEAS_CORONAVIRUS.MD y hacer un Pull Request al repositorio TareasGIT2020.

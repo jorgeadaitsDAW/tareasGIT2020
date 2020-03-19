@@ -1,0 +1,1 @@
+En este archivo incluiremos las diferencias que hemos encontrado sobre GIT y SVN.

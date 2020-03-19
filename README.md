@@ -22,6 +22,17 @@ Este es un repositorio de Git para realizar tareas y ejercicio sobre GIT.
 
     * Cuando se termine de editar deberá subirse al repositorio. Pero hay que tener en cuenta que este archivo lo habrán editado más alumnos, por lo tanto hay que mantener todo lo que hayan añadido los demás más lo nuevo que tu incluyas.
 
-2º 
+2º Tarea (Fecha Fin 19/02/2020 20:30):
 
+    * Tenéis que crear una nueva RAMA en vuestro proyecto
+
+    * En dicha rama tenéis que editar el archivo GIT_VS_SVN.MD
+
+    * Debéis incluir cada alumno, al menos dos diferencias que encontréis entre GIT y SVN.
+
+    * Una vez editado el archivo, habrá que subirlo a una nueva RAMA en el repositorio Remoto.
+
+    * Después debemos mezclar la nueva rama con la Rama Master y subir los cambios al Repositorio Remoto.
+
+    * Tened en cuenta que todos modificaréis el mismo archivo por lo tanto hay que mantener los cambios que hagáis todos.
 

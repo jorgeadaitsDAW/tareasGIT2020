@@ -24,3 +24,19 @@ y únicamente entorno comando
     * Resumen de lo que hace la aplicación: Es un programa para el uso remoto de otros dispostivos, facil de usar, donde con tan solo pasa      el id y la clave de tu ordenador (Que previamente te lo da dicha aplicacion) a otro usuario puede manejar el pc desde su casa. Tambien esta disponible el uso llamadas o videollamadas.
 	
     * ¿Porque se ha escogido dicha aplicación? Es el que uso normalmente y recomendado por amigos programdores.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+* Nombre del alumno: Enrique Rapela Castejón
+
+    * Aplicación para usar en remoto: Skype
+	
+    * Link de la página de la aplicación: 	https://www.skype.com/es/
+	
+    * Resumen de lo que hace la aplicación	
+	Está aplicación nos permite conectarnos con amigos o 	conectarnos entre estudiantes para resulver duda, tanto en 	una llamada como en una videollamada y nos permite 	facilizar las clases en estos momentos que sufrimos esta 	epidemia.
+
+    * ¿Porque se ha escogido dicha aplicación? 
+	Es una aplicación muy fácil de utilizar y que ya he estado
+	utilizando desde hace mucho tiempo.

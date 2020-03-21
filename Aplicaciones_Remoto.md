@@ -40,3 +40,18 @@ y únicamente entorno comando
     * ¿Porque se ha escogido dicha aplicación? 
 	Es una aplicación muy fácil de utilizar y que ya he estado
 	utilizando desde hace mucho tiempo.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+* Nombre del alumno: JosÃ© Antonio Reina Montes
+
+    * Aplicaciï¿½n para usar en remoto: Splashtop
+
+    * Link de la pï¿½gina de la aplicaciï¿½n:      http://www.splashtop.com/
+
+    * Resumen de lo que hace la aplicaciï¿½n
+        Es un programa para acceso remoto, soporte remoto o para compartir pantalla en multiples dispositivos
+
+
+    * ï¿½Porque se ha escogido dicha aplicaciï¿½n?
+	Por que es my Ãºtil para trabajar desde otro lugar y muy cÃ³moda e intuitiva.

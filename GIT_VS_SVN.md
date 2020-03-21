@@ -30,3 +30,8 @@ git clone http:/github.com/repositorioPruebas
 
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+José Antonio Reina Montes
+
+En SVN los cambios realizados no se pueden fusionar entre sí, además se pueden registrar directorios vacíos, renombrados y mudados de sitio sin pérdidas de su historia.
+En Git  los cambios se transfieren rápidamente al repositorio central,además registra los contenidos de los directorios, por eso los vacíos se eliminan automáticamente.  

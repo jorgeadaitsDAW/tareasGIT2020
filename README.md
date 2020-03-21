@@ -42,6 +42,6 @@ Este es un repositorio de Git para realizar tareas y ejercicio sobre GIT.
 
     * Una vez hecho Fork.Debéis clonar el proyecto.
 
-    * Téneis que realizar los pasos correspondientes para editar el archivo. IDEAS_CORONAVIRUS.MD y hacer un Pull Request al repositorio TareasGIT2020.
+    * Téneis que realizar los pasos correspondientes para editar el archivo. IDEAS_CORONAVIRUS.MD y hacer un Pull Request al repositorio TareasGIT2020_Fork.
 
     * En este arhcivo debéis incluir cada alumno debe explicar una idea para una aplicación que sirva de forma Altruista para ayudar a las personas a superar la crisis actual sobre esta pandemia.

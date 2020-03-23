@@ -54,4 +54,20 @@ y �nicamente entorno comando
 
 
     * �Porque se ha escogido dicha aplicaci�n?
-	Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
+
+Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+* Nombre del alumno: Jose Manuel Rebolledo Rivera
+	
+	* Aplicacion para usar en remoto: Anydesk
+
+	* Link de la pagina de la Aplicacin: https://anydesk.com/es
+
+	* Resumen de lo que hace la aplicacion: Es un programa que nos permite 
+	acceder de manera remota a otro equipo, dar soporte a un equipo desde 
+	empresa o casa y nos da la opcin de compartir archivo.
+
+	* �Porque se ha escogido dicha aplicacion?
+	Es facil de usar, una interfaz sencilla y no requiere de instalacion

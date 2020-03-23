@@ -27,3 +27,21 @@ En SVN los cambios realizados no se pueden fusionar entre sÃ­, ademÃ¡s se pu
 
 Adrian Haba: 
 1- En SVN los ficheros se encuentran alojados en un repositorio central, y en GIT cada uno es su propio servidor. 2- En GIT un commit no es más que una secuencia de cambios aplicados sobre una versión anterior, una fecha, un autor y un identificador, y en SVN son ficheros completos que luego se comparan para ver diferencias
+
+
+Jose Manuel: 
+
+SNV y Git son controles de versiones, snv es centralizado y git es 
+distribuido y ahra veremos cuando es mejor utilizar uno u otro.
+
+SNV: 
+1. Tenemos equipos de trabajo pequeños.
+2. Conocemos a todos los involucrados en el desarrollo del proyecto.
+3. Cuando no necesitamos un repositorio complejo.
+4. No se tiene una infraestructura para mantener varios repositorios
+
+Git:
+1. Cuando tenemos equipos muy medianos a grandes.
+2. No conocemos a todos los involucrados en el desarrollo del proyecto.
+3. Cuando mantener es necesario mantener una jerarquía de confianza en las personas que afectan el repositorio.
+4. Cuando nuestro proyecto está enfocado a la comunidad y que estamos dispuesto a compartir nuestro código.

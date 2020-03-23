@@ -71,3 +71,19 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
 
 	* �Porque se ha escogido dicha aplicacion?
 	Es facil de usar, una interfaz sencilla y no requiere de instalacion
+
+----------------------------------------------------------------------------------
+
+* Nombre del alumno: Jesús Romero Navarro
+
+        * Aplicacion para usar en remoto: Join.me
+
+        * Link de la pagina de la Aplicacin: https://join.me/es
+
+        * Resumen de lo que hace la aplicacion: Con esta aplicación podemos
+          ver la pantalla del ordenador remoto, amplicar o reducir la imagen,
+          realizar una llamada a través de VoIP, utilizar un Chat, etc..
+
+        * Porque se ha escogido dicha aplicacion?
+        Porque no quedaba otras de las que uso, busqué en internet y vi que 
+	era una muy buena opción y poco conocida.

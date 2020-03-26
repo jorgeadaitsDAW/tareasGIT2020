@@ -33,3 +33,12 @@ Respecto al control de versiones: SVN es un sistema centralizado, mientras que G
 Respecto al historial de modificaciones realizadas: en SVN, solo se realizan en el almacén central; las copias 
 de trabajo que tienen los usuarios solo incluyen la versión más reciente. En cuanto a Git, el historial de 
 cambios se puede ver tanto en el almacén como en las copias individuales.
+
+
+Rafael Oliva Ramirez: 
+- Primera Diferencia:
+			*SVN: Es un sistema centralizado.
+			*GIT: Es un sistema distribuido.
+- Segunda Diferencia:
+			*SVN: Se realizan en el almacén central, las copias de trabajo que tienen los usuarios solo incluyen la versión más reciente.
+			*GIT: El historial de cambios se puede ver tanto en el almacén como en las copias individuales.

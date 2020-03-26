@@ -27,3 +27,9 @@ En SVN los cambios realizados no se pueden fusionar entre sÃ­, ademÃ¡s se pu
 
 Adrian Haba: 
 1- En SVN los ficheros se encuentran alojados en un repositorio central, y en GIT cada uno es su propio servidor. 2- En GIT un commit no es más que una secuencia de cambios aplicados sobre una versión anterior, una fecha, un autor y un identificador, y en SVN son ficheros completos que luego se comparan para ver diferencias
+
+Antonio Vladimir Ortega Chinchilla:
+Respecto al control de versiones: SVN es un sistema centralizado, mientras que GIT es un sistema distribuido.
+Respecto al historial de modificaciones realizadas: en SVN, solo se realizan en el almacén central; las copias 
+de trabajo que tienen los usuarios solo incluyen la versión más reciente. En cuanto a Git, el historial de 
+cambios se puede ver tanto en el almacén como en las copias individuales.

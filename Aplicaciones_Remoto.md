@@ -87,3 +87,20 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
         * Porque se ha escogido dicha aplicacion?
         Porque no quedaba otras de las que uso, busqué en internet y vi que 
 	era una muy buena opción y poco conocida.
+
+-------------------------------------------------------------------------------------------------------------
+
+	*Nombre del alumno: Antonio Vladimir Ortega Chinchilla
+
+	*Aplicacion para usar en remoto: Telegram
+
+	*Link de la pagina de la aplicacion: https://web.telegram.org/
+
+	*Resumen de lo que hace la aplicacion: Es una aplicacion de mensajeria instantanea 
+	que permite tener conversaciones , llamadas y video llamadas a tiempo real.
+	Sus algunas de sus caracteristicas principales son:
+	
+	* ¿Porque se ha escogido dicha aplicacion? He escogido esta aplicacion porque esta 
+	disponible para todas las plataformas, cifra sus conversaciones, ofrece un servicio
+	basado en la nueve, etc. Además tiene una interfaz sencilla y entendible.
+

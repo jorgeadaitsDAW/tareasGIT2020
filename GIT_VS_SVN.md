@@ -42,3 +42,8 @@ Rafael Oliva Ramirez:
 - Segunda Diferencia:
 			*SVN: Se realizan en el almacén central, las copias de trabajo que tienen los usuarios solo incluyen la versión más reciente.
 			*GIT: El historial de cambios se puede ver tanto en el almacén como en las copias individuales.
+
+Mario Ballestero:
+
+* Git permite clonar todo el repositorio mientras que SVN solo permite clonar una rama.
+* En SVN el tema de ramas es mucho más complejo que en Git.

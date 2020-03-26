@@ -104,3 +104,18 @@ Por que es my Ãºtil para trabajar desde otro lugar y muy cÃ³moda e intuitiva.
 	disponible para todas las plataformas, cifra sus conversaciones, ofrece un servicio
 	basado en la nueve, etc. AdemÃ¡s tiene una interfaz sencilla y entendible.
 
+-------------------------------------------------------------------------------------------------------------
+
+*Nombre del alumno: Rafael Oliva Ramirez
+
+	*Aplicacion para usar en remoto: Google Drive
+
+	*Link de la pagina de la aplicacion: https://drive.google.com/drive/
+
+	*Resumen de lo que hace la aplicacion: Es una repositorio donde podemos subir archivos y crear(documentos de texto, power point, tablas de excel, etc)
+						. Tambien podemos compartir los archivos con otros usuario y tambien chatear con en ellos atraves de un chat
+						que disponemos, pero solo con los archivos creados por google drive. 
+	
+	* ¿Porque se ha escogido dicha aplicacion? Es una de las herramientas de google mas usada, ya que podemos subir archivos y crear archivos, aparte de chatear
+						    con los compañeros.
+

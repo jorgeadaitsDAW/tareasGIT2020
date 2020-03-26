@@ -119,3 +119,18 @@ Por que es my Ãºtil para trabajar desde otro lugar y muy cÃ³moda e intuitiva.
 	* ¿Porque se ha escogido dicha aplicacion? Es una de las herramientas de google mas usada, ya que podemos subir archivos y crear archivos, aparte de chatear
 						    con los compañeros.
 
+-------------------------------------------------------------------------------------------------------------
+
+
+	* Nombre del alumno: Mario Ballestero Rodriguez
+	* Aplicación para usar en remoto: Todoist
+	* Link de la página de la aplicación: https://todoist.com/
+	* Resumen de lo que hace la aplicación: Es una aplicación que te permite tener un orden de las
+	tareas que quieres realizar durante el dia.
+	* ¿Porque se ha escogido dicha aplicación?
+	He escogido esta aplicación, porque pienso que aunque estemos todo el dia en casa, debemos aprovechar
+	el tiempo para realizar tareas. Para ello, se puede usar esta aplicación y tener un orden sobre ello.
+
+
+-------------------------------------------------------------------------------------------------------------
+

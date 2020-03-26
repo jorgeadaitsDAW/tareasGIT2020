@@ -148,3 +148,10 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
 	   buenas es que desde hace unos años cifra todas sus conversaciones. Y encima tiene una de las interfaces 
 	   mas sencillas y entendible que existen.
 -------------------------------------------------------------------------------------------------------------
+* Nombre del alumno: Juan Jesús Martínez López
+    * Aplicación para usar en remoto: TeamSpeak
+    * Link de la página de la aplicación: https://www.teamspeak.com/en/
+    * Resumen de lo que hace la aplicación: TeamSpeak es un software chat de voz sobre IP, permite a los usuarios hablar en un canal de chat con otros usuarios, tal como se hace en una conferencia vía llamada telefónica tradicional.
+Los usuarios deben usar un software cliente de TeamSpeak, para conectarse a un servidor TeamSpeak, una vez conectados establecen el canal y pueden hablar.
+    * ¿Porque se ha escogido dicha aplicación?
+	Porque aún resultando algo arcaica en la actualidad, da un muy buen servicio, puesto que otras aplicaciones con las que compite padecen leves caídas de servidor de vez en cuando, TeamSpeak no.

@@ -1,5 +1,11 @@
 Listado de Aplicaciones que nos sirve para trabajar en Remoto.
 
+    * Nombre del alumno : Marcos Torres Segura
+    * Aplicación para usar en remoto : Discord
+    * Link de la página de la aplicación : https://discordapp.com/
+    * Resumen de lo que hace la aplicación : Una facil comunicacion entre personas `para facilitar la realizacion de trabajos y juegos
+    * ¿Porque se ha escogido dicha aplicación? La utilizo todos los dias
+
  *Nombre del alumno: Adrián Haba Gómez
 
     *Aplicación para usar en remoto: PuTTY

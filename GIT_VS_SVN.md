@@ -1,5 +1,10 @@
 En este archivo incluiremos las diferencias que hemos encontrado sobre GIT y SVN.
 
+Marcos Torres Segura
+En SVN existe un depósito central en el que se crean copias del trabajo en función de las modificaciones realizadas. En Git, se generan copias locales de los archivos, sobre las cuales se trabaja directamente.
+
+En SVN, solo se realizan en el almacén central; las copias de trabajo que tienenlos usuarios solo incluyen la versión más reciente. En cuanto a Git, el historial de cambios se puede ver tanto en el almacén como en las copias individuales.
+
 Pablo Jose Cerero Mateos:
 
 Subversion (SVN) es un sistema centralizado y Git es un sistema distribuido, ese es la gran diferencia.

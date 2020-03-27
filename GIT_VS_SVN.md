@@ -47,3 +47,9 @@ Mario Ballestero:
 
 * Git permite clonar todo el repositorio mientras que SVN solo permite clonar una rama.
 * En SVN el tema de ramas es mucho más complejo que en Git.
+
+
+Juan Jesús Martínez López:
+
+*Git al no depender unicamente del repositorio central, puede llevar mejor la perdida de datos por fallos del sistema que SVN.
+*Git no tiene un control más exhaustivo de el acceso de usuarios a los proyectos, como SVN.

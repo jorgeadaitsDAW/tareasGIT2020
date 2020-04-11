@@ -58,3 +58,9 @@ Juan Jesús Martínez López:
 
 *Git al no depender unicamente del repositorio central, puede llevar mejor la perdida de datos por fallos del sistema que SVN.
 *Git no tiene un control más exhaustivo de el acceso de usuarios a los proyectos, como SVN.
+
+
+Javier Melendez Contreras
+
+* SVN es un sistema de control de versiones centralizado y Git es un sistema de control de versiones distribuido.
+* En Git utilizar branches es muy común y fácil, mientras que se puede considerar que en SVN es un proceso un poco más engorroso y no tan habitual. En SVN, las braches se crean como directorios.

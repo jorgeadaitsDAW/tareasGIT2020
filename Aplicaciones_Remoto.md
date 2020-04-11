@@ -161,3 +161,13 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
 Los usuarios deben usar un software cliente de TeamSpeak, para conectarse a un servidor TeamSpeak, una vez conectados establecen el canal y pueden hablar.
     * ¿Porque se ha escogido dicha aplicación?
 	Porque aún resultando algo arcaica en la actualidad, da un muy buen servicio, puesto que otras aplicaciones con las que compite padecen leves caídas de servidor de vez en cuando, TeamSpeak no.
+------------------------------------------------------------------------------------------------------------
+
+* Nombre del alumno: Javier Melendez Contreras
+* Aplicacion para usar en remoto: Facebook Messenger
+
+* Link de la pagina de la aplicacion: https://www.messenger.com/
+
+* Resumen de lo que hace la aplicacion: es una aplicaciÃ³n de mensajeria instantanea que permite hacer videollamadas y llamadas, tanto individuales como grupales, en tiempo real.
+
+* ¿Porque se ha escogido dicha aplicacion? Porque aunque existen otras aplicaciones para videollamadas, llamadas y mensajeria, facebook messenger tiene como limite de personas en las llamadas grupales 50, que para estos momentos de pandemia viene muy bien para estar toda la familia en contacto.

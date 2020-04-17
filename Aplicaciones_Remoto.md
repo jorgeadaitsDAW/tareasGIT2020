@@ -173,14 +173,4 @@ Los usuarios deben usar un software cliente de TeamSpeak, para conectarse a un s
 
 	* ¿Porque se ha escogido dicha aplicacion?
 	Porque aunque existen otras aplicaciones para videollamadas, llamadas y mensajeria, facebook messenger tiene como limite de personas en las llamadas grupales 50, que para estos momentos de pandemia viene muy bien para estar toda la familia en contacto.
-=======
-------------------------------------------------------------------------------------------------------------
 
-* Nombre del alumno: Javier Melendez Contreras
-* Aplicacion para usar en remoto: Facebook Messenger
-
-* Link de la pagina de la aplicacion: https://www.messenger.com/
-
-* Resumen de lo que hace la aplicacion: es una aplicaciÃ³n de mensajeria instantanea que permite hacer videollamadas y llamadas, tanto individuales como grupales, en tiempo real.
-
-* ¿Porque se ha escogido dicha aplicacion? Porque aunque existen otras aplicaciones para videollamadas, llamadas y mensajeria, facebook messenger tiene como limite de personas en las llamadas grupales 50, que para estos momentos de pandemia viene muy bien para estar toda la familia en contacto.

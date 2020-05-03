@@ -174,3 +174,15 @@ Los usuarios deben usar un software cliente de TeamSpeak, para conectarse a un s
 	* ¿Porque se ha escogido dicha aplicacion?
 	Porque aunque existen otras aplicaciones para videollamadas, llamadas y mensajeria, facebook messenger tiene como limite de personas en las llamadas grupales 50, que para estos momentos de pandemia viene muy bien para estar toda la familia en contacto.
 
+---------------------------------------------------------------------------------------------------
+*Nombre del alumno: Carlos García Acevedo
+
+*Aplicacion para usar en remoto: VNC Connect
+
+*Link de la pagina de la aplicacion: https://www.realvnc.com/es/connect/
+
+*Resumen de lo que hace la aplicacion: VNC Connect es un software de pantalla compartida que permite establecer una conexión con un equipo remoto situado en cualquier parte del mundo,
+ver su pantalla en tiempo real y controlarlo como si uno se encontrará frente a él.
+
+* ¿Porque se ha escogido dicha aplicacion? He escogido esta aplicación debido a la facilidad de implantación y su fácil manejo. Tiene una
+máxima seguridad, es sumamente flexible y tiene compatibilidad máxima con las plataformas.

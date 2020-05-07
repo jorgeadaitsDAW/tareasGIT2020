@@ -1,67 +1,67 @@
 Listado de Aplicaciones que nos sirve para trabajar en Remoto.
 
     * Nombre del alumno : Marcos Torres Segura
-    * Aplicaci�n para usar en remoto : Discord
-    * Link de la p�gina de la aplicaci�n : https://discordapp.com/
-    * Resumen de lo que hace la aplicaci�n : Una facil comunicacion entre personas `para facilitar la realizacion de trabajos y juegos
-    * �Porque se ha escogido dicha aplicaci�n? La utilizo todos los dias
+    * Aplicación para usar en remoto : Discord
+    * Link de la página de la aplicación : https://discordapp.com/
+    * Resumen de lo que hace la aplicación : Una facil comunicacion entre personas `para facilitar la realizacion de trabajos y juegos
+    * ¿Porque se ha escogido dicha aplicación? La utilizo todos los dias
 
- *Nombre del alumno: Adri�n Haba G�mez
+ *Nombre del alumno: Adrián Haba Gómez
 
-    *Aplicaci�n para usar en remoto: PuTTY
+    *Aplicación para usar en remoto: PuTTY
      
-*Link de la p�gina de la aplicaci�n: https://www.putty.org/
+*Link de la página de la aplicación: https://www.putty.org/
     
-* Resumen de lo que hace la aplicaci�n: 
-Realiza una conexi�n Telnet o SSH hacia un ordenador/servidor remoto por comandos.
+* Resumen de lo que hace la aplicación: 
+Realiza una conexión Telnet o SSH hacia un ordenador/servidor remoto por comandos.
 
- * �Porque se ha escogido dicha aplicaci�n? 
-Porque con esta aplicaci�n trabaj� en el grado medio con simulaci�n de servidores virtuales y es una muy buena aplicaci�n para las conexiones hacia m�quinas que no dispongan de entorno gr�fico
-y �nicamente entorno comando
+ * ¿Porque se ha escogido dicha aplicación? 
+Porque con esta aplicación trabajé en el grado medio con simulación de servidores virtuales y es una muy buena aplicación para las conexiones hacia máquinas que no dispongan de entorno gráfico
+y únicamente entorno comando
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 * Nombre del alumno: Pablo Jose Cerero Mateos
 
-    * Aplicaci�n para usar en remoto: TeamViewer 14.
+    * Aplicación para usar en remoto: TeamViewer 14.
 	
-    * Link de la p�gina de la aplicaci�n: https://www.teamviewer.com/es/descarga/windows/
+    * Link de la página de la aplicación: https://www.teamviewer.com/es/descarga/windows/
 	
-    * Resumen de lo que hace la aplicaci�n: Es un programa para el uso remoto de otros dispostivos, facil de usar, donde con tan solo pasa      el id y la clave de tu ordenador (Que previamente te lo da dicha aplicacion) a otro usuario puede manejar el pc desde su casa. Tambien esta disponible el uso llamadas o videollamadas.
+    * Resumen de lo que hace la aplicación: Es un programa para el uso remoto de otros dispostivos, facil de usar, donde con tan solo pasa      el id y la clave de tu ordenador (Que previamente te lo da dicha aplicacion) a otro usuario puede manejar el pc desde su casa. Tambien esta disponible el uso llamadas o videollamadas.
 	
-    * �Porque se ha escogido dicha aplicaci�n? Es el que uso normalmente y recomendado por amigos programdores.
+    * ¿Porque se ha escogido dicha aplicación? Es el que uso normalmente y recomendado por amigos programdores.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-* Nombre del alumno: Enrique Rapela Castej�n
+* Nombre del alumno: Enrique Rapela Castejón
 
-    * Aplicaci�n para usar en remoto: Skype
+    * Aplicación para usar en remoto: Skype
 	
-    * Link de la p�gina de la aplicaci�n: 	https://www.skype.com/es/
+    * Link de la página de la aplicación: 	https://www.skype.com/es/
 	
-    * Resumen de lo que hace la aplicaci�n	
-	Est� aplicaci�n nos permite conectarnos con amigos o 	conectarnos entre estudiantes para resulver duda, tanto en 	una llamada como en una videollamada y nos permite 	facilizar las clases en estos momentos que sufrimos esta 	epidemia.
+    * Resumen de lo que hace la aplicación	
+	Está aplicación nos permite conectarnos con amigos o 	conectarnos entre estudiantes para resulver duda, tanto en 	una llamada como en una videollamada y nos permite 	facilizar las clases en estos momentos que sufrimos esta 	epidemia.
 
-    * �Porque se ha escogido dicha aplicaci�n? 
-	Es una aplicaci�n muy f�cil de utilizar y que ya he estado
+    * ¿Porque se ha escogido dicha aplicación? 
+	Es una aplicación muy fácil de utilizar y que ya he estado
 	utilizando desde hace mucho tiempo.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-* Nombre del alumno: José Antonio Reina Montes
+* Nombre del alumno: JosÃ© Antonio Reina Montes
 
-    * Aplicaci�n para usar en remoto: Splashtop
+    * Aplicaciï¿½n para usar en remoto: Splashtop
 
-    * Link de la p�gina de la aplicaci�n:      http://www.splashtop.com/
+    * Link de la pï¿½gina de la aplicaciï¿½n:      http://www.splashtop.com/
 
-    * Resumen de lo que hace la aplicaci�n
+    * Resumen de lo que hace la aplicaciï¿½n
         Es un programa para acceso remoto, soporte remoto o para compartir pantalla en multiples dispositivos
 
 
-    * �Porque se ha escogido dicha aplicaci�n?
+    * ï¿½Porque se ha escogido dicha aplicaciï¿½n?
 
-Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
+Por que es my Ãºtil para trabajar desde otro lugar y muy cÃ³moda e intuitiva.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -75,24 +75,24 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
 	acceder de manera remota a otro equipo, dar soporte a un equipo desde 
 	empresa o casa y nos da la opcin de compartir archivo.
 
-	* �Porque se ha escogido dicha aplicacion?
+	* ¿Porque se ha escogido dicha aplicacion?
 	Es facil de usar, una interfaz sencilla y no requiere de instalacion
 
 ----------------------------------------------------------------------------------
 
-* Nombre del alumno: Jesús Romero Navarro
+* Nombre del alumno: JesÃºs Romero Navarro
 
         * Aplicacion para usar en remoto: Join.me
 
         * Link de la pagina de la Aplicacin: https://join.me/es
 
-        * Resumen de lo que hace la aplicacion: Con esta aplicación podemos
+        * Resumen de lo que hace la aplicacion: Con esta aplicaciÃ³n podemos
           ver la pantalla del ordenador remoto, amplicar o reducir la imagen,
-          realizar una llamada a través de VoIP, utilizar un Chat, etc..
+          realizar una llamada a travÃ©s de VoIP, utilizar un Chat, etc..
 
         * Porque se ha escogido dicha aplicacion?
-        Porque no quedaba otras de las que uso, busqué en internet y vi que 
-	era una muy buena opción y poco conocida.
+        Porque no quedaba otras de las que uso, busquÃ© en internet y vi que 
+	era una muy buena opciÃ³n y poco conocida.
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -106,9 +106,9 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
 	que permite tener conversaciones , llamadas y video llamadas a tiempo real.
 	Sus algunas de sus caracteristicas principales son:
 	
-	* ¿Porque se ha escogido dicha aplicacion? He escogido esta aplicacion porque esta 
+	* Â¿Porque se ha escogido dicha aplicacion? He escogido esta aplicacion porque esta 
 	disponible para todas las plataformas, cifra sus conversaciones, ofrece un servicio
-	basado en la nueve, etc. Además tiene una interfaz sencilla y entendible.
+	basado en la nueve, etc. AdemÃ¡s tiene una interfaz sencilla y entendible.
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -122,20 +122,20 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
 						. Tambien podemos compartir los archivos con otros usuario y tambien chatear con en ellos atraves de un chat
 						que disponemos, pero solo con los archivos creados por google drive. 
 	
-	* �Porque se ha escogido dicha aplicacion? Es una de las herramientas de google mas usada, ya que podemos subir archivos y crear archivos, aparte de chatear
-						    con los compa�eros.
+	* ¿Porque se ha escogido dicha aplicacion? Es una de las herramientas de google mas usada, ya que podemos subir archivos y crear archivos, aparte de chatear
+						    con los compañeros.
 
 -------------------------------------------------------------------------------------------------------------
 
 
 	* Nombre del alumno: Mario Ballestero Rodriguez
-	* Aplicaci�n para usar en remoto: Todoist
-	* Link de la p�gina de la aplicaci�n: https://todoist.com/
-	* Resumen de lo que hace la aplicaci�n: Es una aplicaci�n que te permite tener un orden de las
+	* Aplicación para usar en remoto: Todoist
+	* Link de la página de la aplicación: https://todoist.com/
+	* Resumen de lo que hace la aplicación: Es una aplicación que te permite tener un orden de las
 	tareas que quieres realizar durante el dia.
-	* �Porque se ha escogido dicha aplicaci�n?
-	He escogido esta aplicaci�n, porque pienso que aunque estemos todo el dia en casa, debemos aprovechar
-	el tiempo para realizar tareas. Para ello, se puede usar esta aplicaci�n y tener un orden sobre ello.
+	* ¿Porque se ha escogido dicha aplicación?
+	He escogido esta aplicación, porque pienso que aunque estemos todo el dia en casa, debemos aprovechar
+	el tiempo para realizar tareas. Para ello, se puede usar esta aplicación y tener un orden sobre ello.
 
 
 -------------------------------------------------------------------------------------------------------------
@@ -146,21 +146,21 @@ Por que es my útil para trabajar desde otro lugar y muy cómoda e intuitiva.
 
         *Link de la pagina de la aplicacion: https://www.whatsapp.com/
 
-        *Resumen de lo que hace la aplicacion: es una aplicación de chat para teléfonos 
-	 móviles que permite tener conversaciones ,llamadas y video llamadas a tiempo real.
+        *Resumen de lo que hace la aplicacion: es una aplicaciÃ³n de chat para telÃ©fonos 
+	 mÃ³viles que permite tener conversaciones ,llamadas y video llamadas a tiempo real.
 
-        * ¿Porque se ha escogido dicha aplicacion? He escogido esta aplicacion porque es una aplicacion
+        * Â¿Porque se ha escogido dicha aplicacion? He escogido esta aplicacion porque es una aplicacion
 	   bastante conocida y que funciona varios dispositivos como moviles o el propio PC, una de sus cosas
-	   buenas es que desde hace unos años cifra todas sus conversaciones. Y encima tiene una de las interfaces 
+	   buenas es que desde hace unos aÃ±os cifra todas sus conversaciones. Y encima tiene una de las interfaces 
 	   mas sencillas y entendible que existen.
 -------------------------------------------------------------------------------------------------------------
-* Nombre del alumno: Juan Jesús Martínez López
-    * Aplicación para usar en remoto: TeamSpeak
-    * Link de la página de la aplicación: https://www.teamspeak.com/en/
-    * Resumen de lo que hace la aplicación: TeamSpeak es un software chat de voz sobre IP, permite a los usuarios hablar en un canal de chat con otros usuarios, tal como se hace en una conferencia vía llamada telefónica tradicional.
+* Nombre del alumno: Juan JesÃºs MartÃ­nez LÃ³pez
+    * AplicaciÃ³n para usar en remoto: TeamSpeak
+    * Link de la pÃ¡gina de la aplicaciÃ³n: https://www.teamspeak.com/en/
+    * Resumen de lo que hace la aplicaciÃ³n: TeamSpeak es un software chat de voz sobre IP, permite a los usuarios hablar en un canal de chat con otros usuarios, tal como se hace en una conferencia vÃ­a llamada telefÃ³nica tradicional.
 Los usuarios deben usar un software cliente de TeamSpeak, para conectarse a un servidor TeamSpeak, una vez conectados establecen el canal y pueden hablar.
-    * ¿Porque se ha escogido dicha aplicación?
-	Porque aún resultando algo arcaica en la actualidad, da un muy buen servicio, puesto que otras aplicaciones con las que compite padecen leves caídas de servidor de vez en cuando, TeamSpeak no.
+    * Â¿Porque se ha escogido dicha aplicaciÃ³n?
+	Porque aÃºn resultando algo arcaica en la actualidad, da un muy buen servicio, puesto que otras aplicaciones con las que compite padecen leves caÃ­das de servidor de vez en cuando, TeamSpeak no.
 <<<<<<< HEAD
 -------------------------------------------------------------------------------------------------------------
 
@@ -169,20 +169,27 @@ Los usuarios deben usar un software cliente de TeamSpeak, para conectarse a un s
 
 	* Link de la pagina de la aplicacion: https://www.messenger.com/
 
-	* Resumen de lo que hace la aplicacion: es una aplicación de mensajeria instantanea que permite hacer videollamadas y llamadas, tanto individuales como grupales, en tiempo real.
+	* Resumen de lo que hace la aplicacion: es una aplicaciÃ³n de mensajeria instantanea que permite hacer videollamadas y llamadas, tanto individuales como grupales, en tiempo real.
 
-	* ¿Porque se ha escogido dicha aplicacion?
+	* Â¿Porque se ha escogido dicha aplicacion?
 	Porque aunque existen otras aplicaciones para videollamadas, llamadas y mensajeria, facebook messenger tiene como limite de personas en las llamadas grupales 50, que para estos momentos de pandemia viene muy bien para estar toda la familia en contacto.
 
 ---------------------------------------------------------------------------------------------------
-*Nombre del alumno: Carlos García Acevedo
+*Nombre del alumno: Carlos GarcÃ­a Acevedo
 
 *Aplicacion para usar en remoto: VNC Connect
 
 *Link de la pagina de la aplicacion: https://www.realvnc.com/es/connect/
 
-*Resumen de lo que hace la aplicacion: VNC Connect es un software de pantalla compartida que permite establecer una conexión con un equipo remoto situado en cualquier parte del mundo,
-ver su pantalla en tiempo real y controlarlo como si uno se encontrará frente a él.
+*Resumen de lo que hace la aplicacion: VNC Connect es un software de pantalla compartida que permite establecer una conexiÃ³n con un equipo remoto situado en cualquier parte del mundo,
+ver su pantalla en tiempo real y controlarlo como si uno se encontrarÃ¡ frente a Ã©l.
 
-* ¿Porque se ha escogido dicha aplicacion? He escogido esta aplicación debido a la facilidad de implantación y su fácil manejo. Tiene una
-máxima seguridad, es sumamente flexible y tiene compatibilidad máxima con las plataformas.
+* Â¿Porque se ha escogido dicha aplicacion? He escogido esta aplicaciÃ³n debido a la facilidad de implantaciÃ³n y su fÃ¡cil manejo. Tiene una
+mÃ¡xima seguridad, es sumamente flexible y tiene compatibilidad mÃ¡xima con las plataformas.
+-------------------------------------------------------------------------------------------------------
+Nombre del alumno:Jesus Cansno Molina 
+Aplicación para usar en remoto:ShowMyPC.
+Enlace de la pagina de la aplicacio:https://showmypc.com/
+Resumen de lo que hace la apli :
+Es otra de las alternativas que tenemos disponibles. ShowMyPc se basa en el mismo modelo conocido de instalación de programa en el ordenador que queremos controlar, aplicación en el smartphone y comunicación entre ambas a través de la generación de un código. Tenemos una opción gratuita más limitada y opciones de suscripción que amplían sus funcionalidades.
+¿Por qué se ha escogido dicha aplicación :Hemos elegido esta aplicación porque es facil de usar ,no necesita instalaci,podemos transferir archivos e incluye una ventana de chat.

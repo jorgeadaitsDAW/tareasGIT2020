@@ -39,6 +39,9 @@ Respecto al historial de modificaciones realizadas: en SVN, solo se realizan en 
 de trabajo que tienen los usuarios solo incluyen la versión más reciente. En cuanto a Git, el historial de 
 cambios se puede ver tanto en el almacén como en las copias individuales.
 
+--------------------------------------------------------------------------------
+Jesus Cansino Molina.
+SVN Y git  si bien son ambos istemas de control de versiones,tienen una diferencia bastante significante .SVN es un sitema de control de versiones cetralizado(CVCS,Centralized Version Control Sytem ) mientras que Git es un sistema de contol de versiones distribuido (DVCS.Ditributd Version Control System)
 
 Rafael Oliva Ramirez: 
 - Primera Diferencia:
@@ -71,4 +74,5 @@ Carlos Garcia Acevedo:
 mientras que Git es un sistema de control de versiones distribuido (DVCS, Distributed Version Control System).
 
 -Git permite clonar todo el repositorio mientras que SVN solo permite clonar una rama.
+
 

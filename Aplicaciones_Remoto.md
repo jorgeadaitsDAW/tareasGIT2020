@@ -187,9 +187,8 @@ ver su pantalla en tiempo real y controlarlo como si uno se encontrarÃ¡ frente
 * Â¿Porque se ha escogido dicha aplicacion? He escogido esta aplicaciÃ³n debido a la facilidad de implantaciÃ³n y su fÃ¡cil manejo. Tiene una
 mÃ¡xima seguridad, es sumamente flexible y tiene compatibilidad mÃ¡xima con las plataformas.
 -------------------------------------------------------------------------------------------------------
-Nombre del alumno:Jesus Cansno Molina 
-Aplicación para usar en remoto:ShowMyPC.
-Enlace de la pagina de la aplicacio:https://showmypc.com/
-Resumen de lo que hace la apli :
-Es otra de las alternativas que tenemos disponibles. ShowMyPc se basa en el mismo modelo conocido de instalación de programa en el ordenador que queremos controlar, aplicación en el smartphone y comunicación entre ambas a través de la generación de un código. Tenemos una opción gratuita más limitada y opciones de suscripción que amplían sus funcionalidades.
-¿Por qué se ha escogido dicha aplicación :Hemos elegido esta aplicación porque es facil de usar ,no necesita instalaci,podemos transferir archivos e incluye una ventana de chat.
+Nombre del alumno:Jesus Cansno Molina
+*Aplicacion para usaen remoto:ShowMyPc
+*Enlace de la pagina de la aplicacion:https://showmypc.com/
+*Resumen de lo que hace la aplicaci:Es otra de las alternativas que tenemos disponibles. ShowMyPc se basa en el mismo modelo conocido de instalación de programa en el ordenador que queremos controlar, aplicación en el smartphone y comunicación entre ambas a través de la generación de un código. Tenemos una opción gratuita más limitada y opciones de suscripción que amplían sus funcionalidades.
+*¿Por qué se ha escogido dicha aplicación?:He escogido esta aplicación porque es facil de configurar,no necesita ser intalada e inclu chat.

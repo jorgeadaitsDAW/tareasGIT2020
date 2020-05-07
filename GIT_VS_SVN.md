@@ -1,5 +1,10 @@
 En este archivo incluiremos las diferencias que hemos encontrado sobre GIT y SVN.
 
+Marcos Torres Segura
+En SVN existe un depósito central en el que se crean copias del trabajo en función de las modificaciones realizadas. En Git, se generan copias locales de los archivos, sobre las cuales se trabaja directamente.
+
+En SVN, solo se realizan en el almacén central; las copias de trabajo que tienenlos usuarios solo incluyen la versión más reciente. En cuanto a Git, el historial de cambios se puede ver tanto en el almacén como en las copias individuales.
+
 Pablo Jose Cerero Mateos:
 
 Subversion (SVN) es un sistema centralizado y Git es un sistema distribuido, ese es la gran diferencia.
@@ -33,6 +38,41 @@ Respecto al control de versiones: SVN es un sistema centralizado, mientras que G
 Respecto al historial de modificaciones realizadas: en SVN, solo se realizan en el almacén central; las copias 
 de trabajo que tienen los usuarios solo incluyen la versión más reciente. En cuanto a Git, el historial de 
 cambios se puede ver tanto en el almacén como en las copias individuales.
+
 --------------------------------------------------------------------------------
 Jesus Cansino Molina.
 SVN Y git  si bien son ambos istemas de control de versiones,tienen una diferencia bastante significante .SVN es un sitema de control de versiones cetralizado(CVCS,Centralized Version Control Sytem ) mientras que Git es un sistema de contol de versiones distribuido (DVCS.Ditributd Version Control System)
+
+Rafael Oliva Ramirez: 
+- Primera Diferencia:
+			*SVN: Es un sistema centralizado.
+			*GIT: Es un sistema distribuido.
+- Segunda Diferencia:
+			*SVN: Se realizan en el almacén central, las copias de trabajo que tienen los usuarios solo incluyen la versión más reciente.
+			*GIT: El historial de cambios se puede ver tanto en el almacén como en las copias individuales.
+
+Mario Ballestero:
+
+* Git permite clonar todo el repositorio mientras que SVN solo permite clonar una rama.
+* En SVN el tema de ramas es mucho más complejo que en Git.
+
+
+Juan Jesús Martínez López:
+
+*Git al no depender unicamente del repositorio central, puede llevar mejor la perdida de datos por fallos del sistema que SVN.
+*Git no tiene un control más exhaustivo de el acceso de usuarios a los proyectos, como SVN.
+
+
+Javier Melendez Contreras
+
+* SVN es un sistema de control de versiones centralizado y Git es un sistema de control de versiones distribuido.
+* En Git utilizar branches es muy común y fácil, mientras que se puede considerar que en SVN es un proceso un poco más engorroso y no tan habitual. En SVN, las braches se crean como directorios.
+
+Carlos Garcia Acevedo:
+
+-SVN es un sistema de control de versiones centralizado (CVCS, Centralized Version Control System), 
+mientras que Git es un sistema de control de versiones distribuido (DVCS, Distributed Version Control System).
+
+-Git permite clonar todo el repositorio mientras que SVN solo permite clonar una rama.
+
+
